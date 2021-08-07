@@ -7,7 +7,7 @@ public class CalculatorTest {
 
     @Test
     public void addTest() {
-        assertEquals("Error, number is add not corect", 15.2, calculator.add(5.1, 10.1), 0);
+        assertEquals("Error, number is add not corect", 15.5, calculator.add(5.1, 10.4), 0);
     }
 
 }
