@@ -7,6 +7,7 @@ public class Calculator {
 
     }
 
+
     public double division( double firstNum, double secondNumrer) {
         double result = firstNum / secondNumrer;
         System.out.println(result);

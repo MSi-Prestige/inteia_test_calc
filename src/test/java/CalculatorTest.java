@@ -10,10 +10,10 @@ public class CalculatorTest {
     public void addTest() {
         assertEquals("Error, number is add not corect", 14.5, calculator.add(4.1, 10.4), 0);
     }
-
+    // Test calculator.
     @Test
     public void divisionTest() {
         assertEquals("Error, number is add not corect", 5, calculatorDividr.division(15, 3), 0);
     }
-
+    // Test calculator.
 }
