@@ -4,9 +4,6 @@ import static org.junit.Assert.assertEquals;
 
 public class CalculatorTest {
     Calculator calculator = new Calculator();
-//    Calculator calculator = new Calculator();
-//    Calculator calculatorMultiply = new Calculator();
-//    Calculator calculatorSubtract = new Calculator();
 
     @Test
     public void addTest() {
